@@ -19,7 +19,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">PerspectivePlayground/h3>
+<h3 align="center">PerspectivePlayground</h3>
 
   <p align="center">
     <br />
